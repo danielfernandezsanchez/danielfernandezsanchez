@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **danielfernandezsanchez/danielfernandezsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💬 Redes.
+
+- Instagram: https://www.instagram.com/fersaniel/ 
+- Twitter: https://twitter.com/fersaniel
+- Facebook: https://www.facebook.com/fersaniel
+- Tiktok: https://www.tiktok.com/@fersaniel
+- Twitch: https://www.twitch.tv/fersaniel
