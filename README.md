@@ -22,4 +22,10 @@ Here are some ideas to get you started:
 - Tiktok: https://www.tiktok.com/@fersaniel
 - Twitch: https://www.twitch.tv/fersaniel
 
+🤔 Mis estadísticas.
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielfernandezsanchez&count_private=true&show_icons=true&theme=solarized-dark)
+
+📝 Lenguajes más usados.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlbehrensg&theme=solarized-dark&layout=compact)
