@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 💼Job.
 
-- Linkedin: https://linkedin/in/daniel-fernandez-sanchez
+- Linkedin: https://linkedin.com/in/daniel-fernandez-sanchez
 
 🤔 My stats.
 
