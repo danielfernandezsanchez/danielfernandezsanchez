@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielfernandezsanchez&count_private=true&show_icons=true&theme=solarized-dark)
 
-📝 Lenguajes más usados.
+📝 Programming language skills.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielfernandezsanchez&theme=solarized-dark&layout=compact)
