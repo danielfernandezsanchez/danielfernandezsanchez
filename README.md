@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Redes.
+💬 Social.
 
 - Instagram: https://www.instagram.com/fersaniel/ 
 - Twitter: https://twitter.com/fersaniel
@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 - Tiktok: https://www.tiktok.com/@fersaniel
 - Twitch: https://www.twitch.tv/fersaniel
 
-💼Trabajo.
+💼Job.
 
 - Linkedin: https://linkedin/in/daniel-fernandez-sanchez
 
-🤔 Mis estadísticas.
+🤔 My stats.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielfernandezsanchez&count_private=true&show_icons=true&theme=solarized-dark)
 
